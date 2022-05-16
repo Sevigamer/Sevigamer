@@ -60,3 +60,5 @@ Para poner una nota al pie se pone al lado del texto ^1 entre [] y luego despues
 Frase con pie de pagina. [^1]
 [^1]: Nota al pie de pagina.
 
+[Ordenes de git](./git.md)
+
